@@ -16,5 +16,15 @@ namespace CPlusFileCreater
 		{
 			InitializeComponent();
 		}
+
+		private void tabPage1_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void Btn_OpenBrows_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
